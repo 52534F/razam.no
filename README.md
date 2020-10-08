@@ -4,6 +4,8 @@
 
 [Følg oss på Facebook](https://www.facebook.com/razam.norge)
 
+[![razam.jpg](/razam.jpg)](https://t.me/HjelpBelarus)
+
 ## Kontakt:
 * Styret: styret@razam.no
 * Styreleder: max@razam.no
