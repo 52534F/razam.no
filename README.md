@@ -1,4 +1,4 @@
-![razam.jpg](/razam.jpg) *Razam er en partipolitisk uavhengig medlemsorganisasjon som jobber med å fremme belaruseres, og deres familiers, interesser i Norge, å være  bindeledd mellom belarusisk og norsk kultur og samfunn, og å skape kontaktflater mellom belarusere og nordmenn.*
+*Razam er en partipolitisk uavhengig medlemsorganisasjon som jobber med å fremme belaruseres, og deres familiers, interesser i Norge, å være  bindeledd mellom belarusisk og norsk kultur og samfunn, og å skape kontaktflater mellom belarusere og nordmenn.*
 
 [Følg oss på Facebook](https://www.facebook.com/razam.norge)
 
