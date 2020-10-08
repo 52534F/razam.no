@@ -21,3 +21,5 @@ Maksim Hardziyenak (leder) Maryia Akkuratnova (nestleder), Olga Lazareva Norborg
 [Vedtekter](/Vedtekter.pdf)
 
 [Bli medlem!](https://bit.ly/Razam)
+
+*org.nr: 925684678*
