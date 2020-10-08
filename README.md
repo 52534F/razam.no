@@ -3,13 +3,9 @@
 [Følg oss på Facebook](https://www.facebook.com/razam.norge)
 
 ## Kontakt:
-* Styret: styret@razam.no
-* Styreleder: max@razam.no
-* Pressekontakt: maria@razam.no
-* Politisk kontakt: maria@razam.no
-
-## Styret 2020:
-Maksim Hardziyenak (leder) Maryia Akkuratnova (nestleder), Olga Lazareva Norborg, Anna Omslandseter, Yuliya Yasinskaya, Tatsiana Berasnevich og Katerina Zakrevskaya.
+* Administrative henvendelser: max@razam.no
+* Politiske henvendelser og pressekontakt: maria@razam.no
+* For andre spørsmål, skriv en epost til styret: styret@razam.no
 
 ## Medlemsskap:
 *Alle som har interesse for hviterussisk samfunn og kultur har rett til medlemskap.*
@@ -18,4 +14,13 @@ Maksim Hardziyenak (leder) Maryia Akkuratnova (nestleder), Olga Lazareva Norborg
 
 [Innmeldingsskjema / Рэгістрацыйны фармуляр](https://bit.ly/Razam)
 
-*org.nr: 925684678*
+## Styret 2020:
+* Maksim Hardziyenak (leder),
+* Maryia Akkuratnova (nestleder), 
+* Olga Lazareva Norborg, 
+* Anna Omslandseter, 
+* Yuliya Yasinskaya, 
+* Tatsiana Berasnevich, og 
+* Katerina Zakrevskaya.
+
+*Organisasjonsnummer: 925684678 - Bankkonto: 3633.26.11253*
