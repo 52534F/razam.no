@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+![razam.jpg](/razam.jpg)
 
-You can use the [editor on GitHub](https://github.com/52534F/razam.no/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+*Razam er en partipolitisk uavhengig medlemsorganisasjon som jobber med å fremme belaruseres, og deres familiers, interesser i Norge, å være  bindeledd mellom belarusisk og norsk kultur og samfunn, og å skape kontaktflater mellom belarusere og nordmenn.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Følg oss på Facebook](https://www.facebook.com/razam.norge)
 
-### Markdown
+## Kontakt:
+* Styret: styret@razam.no
+* Styreleder: max@razam.no
+* Pressekontakt: maria@razam.no
+* Politisk kontakt: maria@razam.no
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Styret:
+Maksim Hardziyenak (leder) Maryia Akkuratnova (nestleder), Olga Lazareva Norborg, Anna Omslandseter, Yuliya Yasinskaya, Tatsiana Berasnevich og Katerina Zakrevskaya.
 
-```markdown
-Syntax highlighted code block
+## Medlemsskap:
+*Alle som har interesse for hviterussisk samfunn og kultur har rett til medlemskap.*
+* Medlemskontigent: 100,-
+[Vedtekter](/Vedtekter.pdf)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/52534F/razam.no/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Bli medlem!](https://bit.ly/Razam)
