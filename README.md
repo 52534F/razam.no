@@ -8,7 +8,7 @@
 * Pressekontakt: maria@razam.no
 * Politisk kontakt: maria@razam.no
 
-## Styret:
+## Styret 2020:
 Maksim Hardziyenak (leder) Maryia Akkuratnova (nestleder), Olga Lazareva Norborg, Anna Omslandseter, Yuliya Yasinskaya, Tatsiana Berasnevich og Katerina Zakrevskaya.
 
 ## Medlemsskap:
