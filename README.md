@@ -1,3 +1,5 @@
+![Hviterussisk forening i Norge RAZAM](/razam-norge.png)
+
 *Razam er en partipolitisk uavhengig medlemsorganisasjon som jobber med å fremme belaruseres, og deres familiers, interesser i Norge, å være  bindeledd mellom belarusisk og norsk kultur og samfunn, og å skape kontaktflater mellom belarusere og nordmenn.*
 
 [Følg oss på Facebook](https://www.facebook.com/razam.norge)
@@ -15,7 +17,7 @@ Maksim Hardziyenak (leder) Maryia Akkuratnova (nestleder), Olga Lazareva Norborg
 
 ## Medlemsskap:
 *Alle som har interesse for hviterussisk samfunn og kultur har rett til medlemskap.*
-* Medlemskontigent: 100,-
+* Medlemskontigent: 100,- 
 [Vedtekter](/Vedtekter.pdf)
 
 [Bli medlem!](https://bit.ly/Razam)
