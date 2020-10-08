@@ -4,7 +4,7 @@
 
 [Følg oss på Facebook](https://www.facebook.com/razam.norge)
 
-[![razam.jpg](/razam.jpg)](https://t.me/HjelpBelarus)
+[![razam.jpg](/hjelp-belarus.jpg)](https://t.me/HjelpBelarus)
 
 ## Kontakt:
 * Styret: styret@razam.no
