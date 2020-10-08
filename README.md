@@ -1,4 +1,4 @@
-*Razam er en partipolitisk uavhengig medlemsorganisasjon som jobber med å fremme hviterusseres/belarusere, og deres familiers, interesser i Norge, å være bindeledd mellom hviterussisk/belarusisk og norsk kultur og samfunn, og å skape kontaktflater mellom hviterussere/belarusere og nordmenn.*
+*Razam er en partipolitisk uavhengig medlemsorganisasjon som jobber med å fremme hviterusseres/belarusere, og deres familiers, interesser i Norge, å være bindeledd mellom hviterussisk/belarusisk og norsk kultur og samfunn, og å skape kontaktflater mellom hviterussere/belarusere og nordmenn. Razam ble stiftet høsten 2020.*
 
 [Følg oss på Facebook for nyheter og invitasjon til eventer](https://www.facebook.com/razam.norge)
 
