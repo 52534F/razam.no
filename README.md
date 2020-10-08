@@ -9,8 +9,8 @@
 
 ## Medlemsskap:
 *Alle som har interesse for hviterussisk samfunn og kultur har rett til medlemskap.*
-* Medlemskontigent: 100,-
-* [Vedtekter](/Vedtekter.pdf)
+* Medlemskontigenten er på 100,-
+* Les [vedtektene](/Vedtekter.pdf) her
 
 [Innmeldingsskjema / Рэгістрацыйны фармуляр](https://bit.ly/Razam)
 
