@@ -3,9 +3,9 @@
 [Følg oss på Facebook for nyheter og invitasjon til eventer](https://www.facebook.com/razam.norge)
 
 ## Kontakt:
-* Administrative henvendelser: max@razam.no
-* Politiske henvendelser og pressekontakt: maria@razam.no
-* For andre spørsmål, skriv en epost til styret: styret@razam.no
+* Administrative henvendelser: [max@razam.no](mailto:max@razam.no)
+* Politiske henvendelser og pressekontakt: [maria@razam.no](mailto:maria@razam.no)
+* For andre spørsmål, skriv en epost til styret: [styret@razam.no](mailto:styret@razam.no)
 
 ## Medlemsskap:
 *Alle som har interesse for hviterussisk samfunn og kultur har rett til medlemskap.*
