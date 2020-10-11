@@ -14,7 +14,7 @@
 
 [Innmeldingsskjema / Рэгістрацыйны фармуляр](https://bit.ly/Razam)
 
-## Styret 2020
+## Styret 2020/2021
 * Maksim Hardziyenak (leder),
 * Maryia Akkuratnova (nestleder), 
 * Olga Lazareva Norborg, 
